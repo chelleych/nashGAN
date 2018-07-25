@@ -1,0 +1,7 @@
+data/
+figures/
+analyze.py
+plot_training_rate.py
+plot.py
+networks/nash/dataout/*
+networks/nash/imgout/*
